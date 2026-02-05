@@ -35,29 +35,6 @@ The following Spring Boot starters are used in this project:
 Database Driver:
 •mysql-connector-j
 
-
-📂 Project Structure
-LibraryManagementSystem
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com.nt
-│   │   │       ├── controller
-│   │   │       ├── dto
-│   │   │       ├── entity
-│   │   │       ├── jwt
-│   │   │       ├── repository
-│   │   │       ├── security
-│   │   │       ├── service
-│   │   │       └── LibraryManagementApplication.java
-│   │   └── resources
-│   │       ├── application.properties
-│   │       └── static / templates
-│   └── test
-│       └── java
-│── pom.xml
-
-
 ⚙️ Database Configuration
 
 Create a MySQL database:
